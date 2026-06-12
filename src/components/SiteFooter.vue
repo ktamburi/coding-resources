@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const year = new Date().getFullYear()
+const baseUrl = import.meta.env.BASE_URL
 </script>
 
 <template>
@@ -36,7 +37,7 @@ const year = new Date().getFullYear()
           >
             <img
               class="block size-4 [filter:var(--social-img-base)] hover:[filter:var(--social-img-hover)] sm:size-[22px]"
-              src="/icons/social-linkedin.svg"
+              :src="`${baseUrl}icons/social-linkedin.svg`"
               alt=""
               decoding="async"
             />
@@ -50,7 +51,7 @@ const year = new Date().getFullYear()
           >
             <img
               class="block size-4 [filter:var(--social-img-base)] hover:[filter:var(--social-img-hover)] sm:size-[22px]"
-              src="/icons/social-github.svg"
+              :src="`${baseUrl}icons/social-github.svg`"
               alt=""
               decoding="async"
             />
@@ -64,7 +65,7 @@ const year = new Date().getFullYear()
           >
             <img
               class="block size-4 [filter:var(--social-img-base)] hover:[filter:var(--social-img-hover)] sm:size-[22px]"
-              src="/icons/social-instagram.svg"
+              :src="`${baseUrl}icons/social-instagram.svg`"
               alt=""
               decoding="async"
             />
