@@ -1,0 +1,1305 @@
+{
+  "sections": [
+    {
+      "id": "learning-coding",
+      "title": "Learning coding",
+      "description": "Courses, tutorials, coding games, practice platforms, roadmaps, and hands-on labs for learning programming and security.",
+      "accent": "#7ed9c4",
+      "resources": [
+        {
+          "id": "algorithm-visualizer-n-queens",
+          "title": "Algorithm Visualizer - N Queens",
+          "url": "https://algorithm-visualizer.org/backtracking/n-queens-problem",
+          "description": "Interactive backtracking visualization for the N Queens problem.",
+          "tags": [
+            "Algorithms",
+            "JavaScript",
+            "Beginner",
+            "Visual"
+          ]
+        },
+        {
+          "id": "codedex",
+          "title": "Codédex",
+          "url": "https://www.codedex.io/",
+          "description": "Gamified beginner coding courses and practice paths.",
+          "tags": [
+            "Beginner",
+            "Gamified",
+            "Python",
+            "JavaScript"
+          ]
+        },
+        {
+          "id": "freecodecamp",
+          "title": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "description": "Free full-stack, frontend, backend, data, and certification-style learning paths.",
+          "tags": [
+            "Beginner",
+            "Full-Stack",
+            "JavaScript",
+            "React"
+          ]
+        },
+        {
+          "id": "learn-anything",
+          "title": "Learn Anything",
+          "url": "https://learn-anything.xyz/",
+          "description": "Topic maps and learning paths across programming, science, and technical subjects.",
+          "tags": [
+            "Beginner",
+            "Roadmap",
+            "Research"
+          ]
+        },
+        {
+          "id": "quickref",
+          "title": "QuickRef.ME",
+          "url": "https://quickref.me/",
+          "description": "Fast cheat sheets for languages, frameworks, CLI tools, and databases.",
+          "tags": [
+            "Cheatsheet",
+            "JavaScript",
+            "Python",
+            "DevOps"
+          ]
+        },
+        {
+          "id": "react-bits",
+          "title": "React Bits",
+          "url": "https://reactbits.dev/",
+          "description": "React patterns, snippets, and component ideas.",
+          "tags": [
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "Frontend"
+          ]
+        },
+        {
+          "id": "learn-git-branching",
+          "title": "Learn Git Branching",
+          "url": "https://learngitbranching.js.org/",
+          "description": "Interactive visual lessons for Git branching, merging, and rebasing.",
+          "tags": [
+            "Beginner",
+            "Git",
+            "Gamified"
+          ]
+        },
+        {
+          "id": "visualgo",
+          "title": "VisuAlgo",
+          "url": "https://visualgo.net/en",
+          "description": "Algorithm and data structure visualizations for study and revision.",
+          "tags": [
+            "Algorithms",
+            "Data Structures",
+            "Visual"
+          ]
+        },
+        {
+          "id": "visual-learner",
+          "title": "Visual Learner",
+          "url": "https://www.visuallearner.org/",
+          "description": "Visual explanations for computer science and programming concepts.",
+          "tags": [
+            "Beginner",
+            "Visual",
+            "Computer Science"
+          ]
+        },
+        {
+          "id": "dev-to",
+          "title": "DEV Community",
+          "url": "https://dev.to/",
+          "description": "Developer articles, tutorials, and community posts.",
+          "tags": [
+            "Career",
+            "JavaScript",
+            "Full-Stack"
+          ]
+        },
+        {
+          "id": "refactoring-guru",
+          "title": "Refactoring Guru",
+          "url": "https://refactoring.guru/",
+          "description": "Design patterns, refactoring examples, and software design explanations.",
+          "tags": [
+            "Architecture",
+            "Design Patterns",
+            "Advance"
+          ]
+        },
+        {
+          "id": "codewars",
+          "title": "Codewars",
+          "url": "https://www.codewars.com/",
+          "description": "Code challenge practice across multiple programming languages.",
+          "tags": [
+            "Practice",
+            "Gamified",
+            "JavaScript",
+            "Python"
+          ]
+        },
+        {
+          "id": "exercism",
+          "title": "Exercism",
+          "url": "https://exercism.org/",
+          "description": "Mentored language practice tracks and coding exercises.",
+          "tags": [
+            "Practice",
+            "Beginner",
+            "Java",
+            "Python"
+          ]
+        },
+        {
+          "id": "project-euler",
+          "title": "Project Euler",
+          "url": "https://projecteuler.net/",
+          "description": "Math-heavy programming problems for problem solving practice.",
+          "tags": [
+            "Practice",
+            "Algorithms",
+            "Advance"
+          ]
+        },
+        {
+          "id": "codecademy",
+          "title": "Codecademy",
+          "url": "https://www.codecademy.com/",
+          "description": "Interactive coding courses for web, programming, and data skills.",
+          "tags": [
+            "Beginner",
+            "JavaScript",
+            "Python",
+            "Full-Stack"
+          ]
+        },
+        {
+          "id": "sololearn",
+          "title": "Sololearn",
+          "url": "https://www.sololearn.com/en/",
+          "description": "Mobile-friendly beginner courses for popular programming languages.",
+          "tags": [
+            "Beginner",
+            "Gamified",
+            "Java",
+            "Python"
+          ]
+        },
+        {
+          "id": "learn-enough",
+          "title": "Learn Enough",
+          "url": "https://www.learnenough.com/",
+          "description": "Beginner-friendly web development, command line, Git, and programming tutorials.",
+          "tags": [
+            "Beginner",
+            "Full-Stack",
+            "Git"
+          ]
+        },
+        {
+          "id": "codeconquest",
+          "title": "Code Conquest",
+          "url": "https://www.codeconquest.com/",
+          "description": "Introductory coding guides and language overviews.",
+          "tags": [
+            "Beginner",
+            "JavaScript",
+            "Python"
+          ]
+        },
+        {
+          "id": "neetcode",
+          "title": "NeetCode",
+          "url": "https://neetcode.io/",
+          "description": "Coding interview practice, roadmaps, and LeetCode-style explanations.",
+          "tags": [
+            "Interview",
+            "Algorithms",
+            "Python",
+            "Advance"
+          ]
+        },
+        {
+          "id": "grokking-coding-interview-educative",
+          "title": "Grokking the Coding Interview - Educative",
+          "url": "https://www.educative.io/courses/grokking-coding-interview",
+          "description": "Pattern-based coding interview course on Educative.",
+          "tags": [
+            "Interview",
+            "Algorithms",
+            "Advance"
+          ]
+        },
+        {
+          "id": "grokking-coding-interview",
+          "title": "Grokking the Coding Interview",
+          "url": "https://www.grokkingthecodinginterview.com/",
+          "description": "Coding interview preparation focused on reusable problem patterns.",
+          "tags": [
+            "Interview",
+            "Algorithms",
+            "Advance"
+          ]
+        },
+        {
+          "id": "big-o-cheat-sheet",
+          "title": "Big-O Cheat Sheet",
+          "url": "https://www.bigocheatsheet.com/",
+          "description": "Complexity reference for common algorithms and data structures.",
+          "tags": [
+            "Algorithms",
+            "Data Structures",
+            "Cheatsheet"
+          ]
+        },
+        {
+          "id": "pathfinding-visualizer",
+          "title": "Pathfinding Visualizer",
+          "url": "https://clementmihailescu.github.io/Pathfinding-Visualizer/",
+          "description": "Interactive visualizer for pathfinding algorithms.",
+          "tags": [
+            "Algorithms",
+            "Visual",
+            "JavaScript"
+          ]
+        },
+        {
+          "id": "stratascratch",
+          "title": "StrataScratch",
+          "url": "https://www.stratascratch.com/?via=bestdeal&gad_source=1&gad_campaignid=23862981777&gbraid=0AAAABDebbgU8Qjv3jZ_EyBQweczbyieHV&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfCHF7ROpCB71PP6ioNB0-5PEWPszUiTRCQKcV0zWzUcRU5IXmNb7WQaApwCEALw_wcB",
+          "description": "Data science and SQL interview practice platform.",
+          "tags": [
+            "SQL",
+            "Interview",
+            "AI/ML",
+            "Practice"
+          ]
+        },
+        {
+          "id": "hackerrank",
+          "title": "HackerRank",
+          "url": "https://www.hackerrank.com/",
+          "description": "Coding practice and interview preparation across languages and domains.",
+          "tags": [
+            "Practice",
+            "Interview",
+            "Java",
+            "Python"
+          ]
+        },
+        {
+          "id": "geeksforgeeks",
+          "title": "GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/",
+          "description": "Programming tutorials, interview prep, algorithms, and CS references.",
+          "tags": [
+            "Algorithms",
+            "Interview",
+            "Java",
+            "Python"
+          ]
+        },
+        {
+          "id": "leetcode",
+          "title": "LeetCode",
+          "url": "https://leetcode.com/",
+          "description": "Coding interview and algorithm problem practice.",
+          "tags": [
+            "Practice",
+            "Interview",
+            "Algorithms"
+          ]
+        },
+        {
+          "id": "advent-of-code",
+          "title": "Advent of Code",
+          "url": "https://adventofcode.com/",
+          "description": "Annual programming puzzle challenge for problem solving practice.",
+          "tags": [
+            "Practice",
+            "Gamified",
+            "Algorithms"
+          ]
+        },
+        {
+          "id": "battlesnake",
+          "title": "Battlesnake",
+          "url": "https://play.battlesnake.com/",
+          "description": "Program a snake AI and compete in a game arena.",
+          "tags": [
+            "Gamified",
+            "AI/ML",
+            "Practice"
+          ]
+        },
+        {
+          "id": "checkio",
+          "title": "CheckiO",
+          "url": "https://checkio.org/",
+          "description": "Gamified coding challenges with Python and TypeScript islands.",
+          "tags": [
+            "Gamified",
+            "Python",
+            "TypeScript",
+            "Practice"
+          ]
+        },
+        {
+          "id": "codingame",
+          "title": "CodinGame",
+          "url": "https://www.codingame.com/start/",
+          "description": "Game-based coding challenges and multiplayer programming contests.",
+          "tags": [
+            "Gamified",
+            "Practice",
+            "Java",
+            "Python"
+          ]
+        },
+        {
+          "id": "aws-card-clash",
+          "title": "AWS Card Clash",
+          "url": "https://arcade.cardclash.training.aws.dev/",
+          "description": "AWS training arcade game for cloud learning.",
+          "tags": [
+            "Gamified",
+            "DevOps",
+            "Cloud"
+          ]
+        },
+        {
+          "id": "the-odin-project",
+          "title": "The Odin Project",
+          "url": "https://www.theodinproject.com/",
+          "description": "Full-stack web development curriculum with projects.",
+          "tags": [
+            "Full-Stack",
+            "JavaScript",
+            "React",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "devdocs-html",
+          "title": "DevDocs - HTML",
+          "url": "https://devdocs.io/html/",
+          "description": "Fast searchable HTML documentation.",
+          "tags": [
+            "Frontend",
+            "HTML",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "roadmap-devops",
+          "title": "roadmap.sh - DevOps",
+          "url": "https://roadmap.sh/devops",
+          "description": "Structured DevOps learning roadmap.",
+          "tags": [
+            "DevOps",
+            "Roadmap",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "ultimate-devops-roadmap",
+          "title": "Ultimate DevOps Roadmap",
+          "url": "https://heynarayan.hashnode.dev/ultimate-devops-roadmap",
+          "description": "DevOps learning path and topic breakdown.",
+          "tags": [
+            "DevOps",
+            "Roadmap"
+          ]
+        },
+        {
+          "id": "geeksforgeeks-devops-roadmap",
+          "title": "GeeksforGeeks DevOps Roadmap",
+          "url": "https://www.geeksforgeeks.org/devops/devops-roadmap/",
+          "description": "DevOps roadmap covering tools, concepts, and learning order.",
+          "tags": [
+            "DevOps",
+            "Roadmap",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "learn-web3",
+          "title": "LearnWeb3",
+          "url": "https://learnweb3.io/",
+          "description": "Web3 and blockchain development learning paths.",
+          "tags": [
+            "Blockchain",
+            "JavaScript",
+            "Full-Stack"
+          ]
+        },
+        {
+          "id": "sqlbolt",
+          "title": "SQLBolt",
+          "url": "https://sqlbolt.com/",
+          "description": "Interactive SQL lessons and exercises.",
+          "tags": [
+            "SQL",
+            "Beginner",
+            "Practice"
+          ]
+        },
+        {
+          "id": "vue-school",
+          "title": "Vue School",
+          "url": "https://vueschool.io/",
+          "description": "Vue courses, tutorials, and ecosystem training.",
+          "tags": [
+            "Vue",
+            "JavaScript",
+            "TypeScript",
+            "Frontend"
+          ]
+        },
+        {
+          "id": "scrimba",
+          "title": "Scrimba",
+          "url": "https://scrimba.com/home",
+          "description": "Interactive frontend and web development courses.",
+          "tags": [
+            "Frontend",
+            "JavaScript",
+            "React",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "hack-design",
+          "title": "Hack Design",
+          "url": "https://www.hackdesign.org/",
+          "description": "Design lessons for developers and product builders.",
+          "tags": [
+            "Design",
+            "Frontend",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "css-tricks",
+          "title": "CSS-Tricks",
+          "url": "https://css-tricks.com/",
+          "description": "CSS, frontend, layout, and web platform tutorials.",
+          "tags": [
+            "Frontend",
+            "CSS",
+            "JavaScript"
+          ]
+        },
+        {
+          "id": "studocu",
+          "title": "Studocu",
+          "url": "https://www.studocu.com/en-us",
+          "description": "Shared study notes, documents, and course material.",
+          "tags": [
+            "Study",
+            "Research"
+          ]
+        },
+        {
+          "id": "udemy-ervis-trupja",
+          "title": "Ervis Trupja on Udemy",
+          "url": "https://www.udemy.com/user/ervis-trupja/",
+          "description": "Programming and development courses from Ervis Trupja.",
+          "tags": [
+            "Beginner",
+            "Full-Stack"
+          ]
+        },
+        {
+          "id": "codeforwin-programming-fundamentals",
+          "title": "Codeforwin - Programming Fundamentals",
+          "url": "https://codeforwin.org/fundamentals/computer-program-programming",
+          "description": "Introductory explanation of computer programs and programming basics.",
+          "tags": [
+            "Beginner",
+            "C/C++",
+            "Programming Basics"
+          ]
+        },
+        {
+          "id": "python-guis-vscode-python",
+          "title": "Python GUIs - VS Code Python Setup",
+          "url": "https://www.pythonguis.com/tutorials/getting-started-vs-code-python/#:~:text=If%20your%20VS%20Code%20is,or%20where%20python3%20on%20Windows.",
+          "description": "Guide for getting started with Python in VS Code.",
+          "tags": [
+            "Python",
+            "Beginner",
+            "Tooling"
+          ]
+        },
+        {
+          "id": "harvard-catalog",
+          "title": "Harvard Online Course Catalog",
+          "url": "https://pll.harvard.edu/catalog",
+          "description": "Harvard online catalog for computer science, data, business, and general courses.",
+          "tags": [
+            "Computer Science",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "edx-ux",
+          "title": "edX UX Courses",
+          "url": "https://www.edx.org/learn/user-experience-ux",
+          "description": "User experience and UX design courses on edX.",
+          "tags": [
+            "Design",
+            "UX"
+          ]
+        },
+        {
+          "id": "edx-data-analysis",
+          "title": "edX Data Analysis Courses",
+          "url": "https://www.edx.org/learn/data-analysis",
+          "description": "Data analysis courses and programs on edX.",
+          "tags": [
+            "Data",
+            "AI/ML",
+            "Python"
+          ]
+        },
+        {
+          "id": "edx-cs50-intro",
+          "title": "CS50's Introduction to Computer Science",
+          "url": "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science",
+          "description": "Harvard's introductory computer science course.",
+          "tags": [
+            "Computer Science",
+            "Beginner",
+            "C/C++",
+            "Python"
+          ]
+        },
+        {
+          "id": "edx-product-management",
+          "title": "edX Product Management Courses",
+          "url": "https://www.edx.org/learn/product-management",
+          "description": "Product management courses on edX.",
+          "tags": [
+            "Product",
+            "Career"
+          ]
+        },
+        {
+          "id": "edx-digital-marketing",
+          "title": "edX Digital Marketing Courses",
+          "url": "https://www.edx.org/learn/digital-marketing",
+          "description": "Digital marketing courses on edX.",
+          "tags": [
+            "Marketing",
+            "Career"
+          ]
+        },
+        {
+          "id": "edx-computer-programming",
+          "title": "edX Computer Programming Courses",
+          "url": "https://www.edx.org/learn/computer-programming",
+          "description": "Programming courses across languages and topics on edX.",
+          "tags": [
+            "Beginner",
+            "Programming Basics"
+          ]
+        },
+        {
+          "id": "harvardx",
+          "title": "HarvardX",
+          "url": "https://www.edx.org/school/harvardx",
+          "description": "HarvardX courses and learning programs on edX.",
+          "tags": [
+            "Computer Science"
+          ]
+        },
+        {
+          "id": "coursera-cryptocurrency",
+          "title": "Coursera Cryptocurrency Course",
+          "url": "https://www.coursera.org/learn/cryptocurrency#syllabus",
+          "description": "Cryptocurrency and blockchain course syllabus on Coursera.",
+          "tags": [
+            "Blockchain",
+            "Cyber-Security"
+          ]
+        },
+        {
+          "id": "edx-cs50",
+          "title": "CS50 on edX",
+          "url": "https://www.edx.org/cs50",
+          "description": "CS50 course collection on edX.",
+          "tags": [
+            "Computer Science",
+            "Beginner",
+            "Python",
+            "C/C++"
+          ]
+        },
+        {
+          "id": "programiz",
+          "title": "Programiz",
+          "url": "https://www.programiz.com/",
+          "description": "Beginner tutorials and references for programming languages.",
+          "tags": [
+            "Beginner",
+            "Python",
+            "Java",
+            "C/C++"
+          ]
+        },
+        {
+          "id": "overapi",
+          "title": "OverAPI",
+          "url": "https://overapi.com/",
+          "description": "Cheat sheet index for programming languages, frameworks, and tools.",
+          "tags": [
+            "Cheatsheet",
+            "JavaScript",
+            "Python",
+            "C/C++"
+          ]
+        },
+        {
+          "id": "edx",
+          "title": "edX",
+          "url": "https://www.edx.org/",
+          "description": "Online courses, programs, and certificates from universities and companies.",
+          "tags": [
+            "Computer Science",
+            "Career"
+          ]
+        },
+        {
+          "id": "udemy",
+          "title": "Udemy",
+          "url": "https://www.udemy.com/",
+          "description": "Marketplace of programming, design, business, and technical courses.",
+          "tags": [
+            "Beginner",
+            "Career"
+          ]
+        },
+        {
+          "id": "w3schools",
+          "title": "W3Schools",
+          "url": "https://www.w3schools.com/",
+          "description": "Beginner web development tutorials and references.",
+          "tags": [
+            "Beginner",
+            "Frontend",
+            "JavaScript",
+            "SQL"
+          ]
+        },
+        {
+          "id": "coursera",
+          "title": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "University and company-backed online courses and learning programs.",
+          "tags": [
+            "Career",
+            "Computer Science"
+          ]
+        },
+        {
+          "id": "lucide-icons",
+          "title": "Lucide Icons",
+          "url": "https://lucide.dev/icons/categories#people",
+          "description": "Open-source icon library useful for frontend projects.",
+          "tags": [
+            "Frontend",
+            "Design",
+            "React",
+            "Vue"
+          ]
+        },
+        {
+          "id": "dremendo",
+          "title": "Dremendo",
+          "url": "https://www.dremendo.com/",
+          "description": "Programming tutorials and compiler-style learning resources.",
+          "tags": [
+            "Beginner",
+            "C/C++",
+            "Java",
+            "Python"
+          ]
+        },
+        {
+          "id": "langchain-academy-foundations",
+          "title": "LangChain Academy - Foundations",
+          "url": "https://academy.langchain.com/collections/foundation",
+          "description": "Foundational LangChain and AI application development lessons.",
+          "tags": [
+            "AI/ML",
+            "Python",
+            "Advance"
+          ]
+        },
+        {
+          "id": "projectlearn",
+          "title": "ProjectLearn",
+          "url": "https://projectlearn.io/",
+          "description": "Project-based programming tutorials and build ideas.",
+          "tags": [
+            "Projects",
+            "Practice",
+            "Full-Stack",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "cosdna",
+          "title": "CosDNA",
+          "url": "https://www.cosdna.com/",
+          "description": "Ingredient database and analysis reference, useful for data or research side projects.",
+          "tags": [
+            "Research",
+            "Data"
+          ]
+        },
+        {
+          "id": "cryptohack",
+          "title": "CryptoHack",
+          "url": "https://cryptohack.org/",
+          "description": "Cryptography challenges and practical crypto learning.",
+          "tags": [
+            "Cyber-Security",
+            "Cryptography",
+            "Gamified",
+            "Python"
+          ]
+        },
+        {
+          "id": "pwn-college",
+          "title": "pwn.college",
+          "url": "https://pwn.college/",
+          "description": "Binary exploitation and systems security training.",
+          "tags": [
+            "Cyber-Security",
+            "Binary Exploitation",
+            "C/C++",
+            "Advance"
+          ]
+        },
+        {
+          "id": "reversing-kr",
+          "title": "Reversing.Kr",
+          "url": "https://reversing.kr/",
+          "description": "Reverse engineering challenge site.",
+          "tags": [
+            "Cyber-Security",
+            "Reverse Engineering",
+            "Advance"
+          ]
+        },
+        {
+          "id": "picoctf-practice",
+          "title": "picoCTF Practice",
+          "url": "https://play.picoctf.org/practice",
+          "description": "General CTF practice problems for cybersecurity fundamentals.",
+          "tags": [
+            "Cyber-Security",
+            "CTF",
+            "Beginner",
+            "Gamified"
+          ]
+        },
+        {
+          "id": "have-i-been-pwned",
+          "title": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "description": "Check whether emails or passwords appear in known breaches.",
+          "tags": [
+            "Cyber-Security",
+            "Privacy",
+            "OSINT"
+          ]
+        },
+        {
+          "id": "hack-the-box",
+          "title": "Hack The Box",
+          "url": "https://www.hackthebox.com/",
+          "description": "Hands-on cybersecurity labs, machines, and academy-style training.",
+          "tags": [
+            "Cyber-Security",
+            "CTF",
+            "Gamified",
+            "Advance"
+          ]
+        },
+        {
+          "id": "overthewire",
+          "title": "OverTheWire Wargames",
+          "url": "https://overthewire.org/wargames/",
+          "description": "Security wargames for Linux, networking, and exploitation basics.",
+          "tags": [
+            "Cyber-Security",
+            "Gamified",
+            "Beginner",
+            "Linux"
+          ]
+        },
+        {
+          "id": "tryhackme",
+          "title": "TryHackMe",
+          "url": "https://tryhackme.com/",
+          "description": "Guided cybersecurity rooms and learning paths.",
+          "tags": [
+            "Cyber-Security",
+            "Beginner",
+            "Gamified"
+          ]
+        },
+        {
+          "id": "vulnhub",
+          "title": "VulnHub",
+          "url": "https://www.vulnhub.com/",
+          "description": "Downloadable vulnerable machines for security practice.",
+          "tags": [
+            "Cyber-Security",
+            "Practice",
+            "Advance"
+          ]
+        },
+        {
+          "id": "hacker101",
+          "title": "Hacker101",
+          "url": "https://www.hacker101.com/",
+          "description": "Web security lessons and CTFs from HackerOne.",
+          "tags": [
+            "Cyber-Security",
+            "Web Security",
+            "Beginner",
+            "CTF"
+          ]
+        },
+        {
+          "id": "abuseipdb-api",
+          "title": "AbuseIPDB API",
+          "url": "https://www.abuseipdb.com/account/api",
+          "description": "IP abuse reporting and reputation API for security tooling.",
+          "tags": [
+            "Cyber-Security",
+            "API",
+            "OSINT"
+          ]
+        },
+        {
+          "id": "roadmap-cyber-security",
+          "title": "roadmap.sh - Cyber Security",
+          "url": "https://roadmap.sh/cyber-security",
+          "description": "Structured cybersecurity learning roadmap.",
+          "tags": [
+            "Cyber-Security",
+            "Roadmap",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "picoctf",
+          "title": "picoCTF",
+          "url": "https://picoctf.org/",
+          "description": "Beginner-friendly CTF platform and cybersecurity education program.",
+          "tags": [
+            "Cyber-Security",
+            "CTF",
+            "Beginner",
+            "Gamified"
+          ]
+        },
+        {
+          "id": "cybrary",
+          "title": "Cybrary",
+          "url": "https://www.cybrary.it/",
+          "description": "Cybersecurity courses, labs, and career paths.",
+          "tags": [
+            "Cyber-Security",
+            "Career"
+          ]
+        },
+        {
+          "id": "osint-industries",
+          "title": "OSINT Industries",
+          "url": "https://www.osint.industries/",
+          "description": "OSINT lookup platform for investigations and security research.",
+          "tags": [
+            "Cyber-Security",
+            "OSINT",
+            "Research"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "github-resources",
+      "title": "GitHub resources",
+      "description": "Curated repositories, roadmaps, project lists, cheat sheets, and open-source learning collections.",
+      "accent": "#8dd3ff",
+      "resources": [
+        {
+          "id": "awesome-cheatsheets",
+          "title": "Awesome Cheatsheets",
+          "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+          "description": "Cheat sheets for popular languages, frameworks, tools, and databases.",
+          "tags": [
+            "Cheatsheet",
+            "JavaScript",
+            "Python",
+            "DevOps"
+          ]
+        },
+        {
+          "id": "the-algorithms",
+          "title": "The Algorithms",
+          "url": "https://github.com/TheAlgorithms",
+          "description": "Open-source algorithm implementations across many languages.",
+          "tags": [
+            "Algorithms",
+            "Java",
+            "Python",
+            "C/C++"
+          ]
+        },
+        {
+          "id": "developer-roadmap",
+          "title": "Developer Roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Roadmaps for frontend, backend, DevOps, cybersecurity, and more.",
+          "tags": [
+            "Roadmap",
+            "Full-Stack",
+            "DevOps",
+            "Cyber-Security"
+          ]
+        },
+        {
+          "id": "awesome",
+          "title": "Awesome Lists",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "Index of curated awesome lists for programming and technical topics.",
+          "tags": [
+            "Research",
+            "Beginner",
+            "Curated"
+          ]
+        },
+        {
+          "id": "front-end-checklist",
+          "title": "Front-End Checklist",
+          "url": "https://github.com/thedaviddias/Front-End-Checklist",
+          "description": "Checklist for shipping production frontend projects.",
+          "tags": [
+            "Frontend",
+            "JavaScript",
+            "React",
+            "Vue"
+          ]
+        },
+        {
+          "id": "project-based-learning",
+          "title": "Project Based Learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Project-based tutorials across programming languages and domains.",
+          "tags": [
+            "Projects",
+            "Practice",
+            "Full-Stack",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "tech-interview-handbook",
+          "title": "Tech Interview Handbook",
+          "url": "https://github.com/yangshun/tech-interview-handbook",
+          "description": "Coding interview, system design, and career preparation handbook.",
+          "tags": [
+            "Interview",
+            "Career",
+            "Algorithms"
+          ]
+        },
+        {
+          "id": "ossu",
+          "title": "Open Source Society University",
+          "url": "https://github.com/ossu",
+          "description": "Open-source computer science curriculum and related learning tracks.",
+          "tags": [
+            "Computer Science",
+            "Roadmap",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "laravel-roadmap-learning-path",
+          "title": "Laravel Roadmap Learning Path",
+          "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
+          "description": "Laravel learning roadmap and recommended resources.",
+          "tags": [
+            "PHP",
+            "Full-Stack",
+            "Roadmap"
+          ]
+        },
+        {
+          "id": "leetcode-company-wise-problems",
+          "title": "LeetCode Company Wise Problems",
+          "url": "https://github.com/hxu296/leetcode-company-wise-problems-2022",
+          "description": "Company-organized LeetCode problem lists for interview prep.",
+          "tags": [
+            "Interview",
+            "Algorithms",
+            "Practice"
+          ]
+        },
+        {
+          "id": "leetcode-company-wise-problems-companies",
+          "title": "LeetCode Company Wise Problems - Companies",
+          "url": "https://github.com/hxu296/leetcode-company-wise-problems-2022/tree/main/companies",
+          "description": "Company folders from the LeetCode company-wise problem collection.",
+          "tags": [
+            "Interview",
+            "Algorithms",
+            "Career"
+          ]
+        },
+        {
+          "id": "ai-college-jobs",
+          "title": "2025 AI College Jobs",
+          "url": "https://github.com/speedyapply/2025-Al-College-Jobs",
+          "description": "AI and college job opportunity tracker.",
+          "tags": [
+            "AI/ML",
+            "Career",
+            "Jobs"
+          ]
+        },
+        {
+          "id": "repochat",
+          "title": "RepoChat",
+          "url": "https://github.com/Madhubytee/RepoChat",
+          "description": "Project repository for chatting with or exploring codebases.",
+          "tags": [
+            "AI/ML",
+            "Projects",
+            "Python"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science-updates",
+      "title": "Science updates",
+      "description": "Science news, newsletters, explainers, and research-friendly reading.",
+      "accent": "#ffb89b",
+      "resources": [
+        {
+          "id": "hackaday",
+          "title": "Hackaday",
+          "url": "https://hackaday.com/",
+          "description": "Hardware, engineering, electronics, and maker project news.",
+          "tags": [
+            "Hardware",
+            "Engineering",
+            "Projects"
+          ]
+        },
+        {
+          "id": "hackster",
+          "title": "Hackster.io",
+          "url": "https://www.hackster.io/",
+          "description": "Hardware, IoT, robotics, and embedded project community.",
+          "tags": [
+            "Hardware",
+            "IoT",
+            "Projects"
+          ]
+        },
+        {
+          "id": "phys-org",
+          "title": "Phys.org",
+          "url": "https://phys.org/",
+          "description": "Science, technology, physics, space, and research news.",
+          "tags": [
+            "Research",
+            "News"
+          ]
+        },
+        {
+          "id": "frontiers-news",
+          "title": "Frontiers News",
+          "url": "https://www.frontiersin.org/news/",
+          "description": "Science and research news from Frontiers.",
+          "tags": [
+            "Research",
+            "News"
+          ]
+        },
+        {
+          "id": "ted-ed",
+          "title": "TED-Ed",
+          "url": "https://ed.ted.com/",
+          "description": "Animated educational lessons and science explainers.",
+          "tags": [
+            "Beginner",
+            "Visual"
+          ]
+        },
+        {
+          "id": "nature-briefing",
+          "title": "Nature Briefing",
+          "url": "https://www.nature.com/nature/articles?type=nature-briefing",
+          "description": "Nature's research briefings and science updates.",
+          "tags": [
+            "Research",
+            "News"
+          ]
+        },
+        {
+          "id": "the-conversation-europe",
+          "title": "The Conversation Europe",
+          "url": "https://theconversation.com/europe",
+          "description": "Research-backed articles and explainers from academics.",
+          "tags": [
+            "Research",
+            "News"
+          ]
+        },
+        {
+          "id": "nautilus",
+          "title": "Nautilus",
+          "url": "https://nautil.us/",
+          "description": "Long-form science, philosophy, and culture essays.",
+          "tags": [
+            "Research",
+            "Longform"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "description": "Study guides, exam prep, and official certificate material.",
+      "accent": "#7ed9c4",
+      "resources": [
+        {
+          "id": "google-cybersecurity-certificate",
+          "title": "Google Cybersecurity Certificate",
+          "url": "https://www.coursera.org/google-certificates/cybersecurity-certificate?utm_source=google&utm_medium=institutions&utm_campaign=sou--google__med--organicsearch__cam--gwgsite__con--null__ter--null",
+          "description": "Google's beginner cybersecurity professional certificate on Coursera.",
+          "tags": [
+            "Cyber-Security",
+            "Beginner",
+            "Career"
+          ]
+        },
+        {
+          "id": "edx-cybersecurity",
+          "title": "edX Cybersecurity Courses",
+          "url": "https://www.edx.org/learn/cybersecurity",
+          "description": "Cybersecurity courses and certificate programs on edX.",
+          "tags": [
+            "Cyber-Security"
+          ]
+        },
+        {
+          "id": "harvardx-ai-certificate",
+          "title": "HarvardX Computer Science for AI Certificate",
+          "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence",
+          "description": "Professional certificate focused on computer science for artificial intelligence.",
+          "tags": [
+            "AI/ML",
+            "Python",
+            "Computer Science"
+          ]
+        },
+        {
+          "id": "harvardx-python-certificate",
+          "title": "HarvardX Computer Science for Python Programming Certificate",
+          "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming",
+          "description": "Professional certificate focused on Python programming.",
+          "tags": [
+            "Python",
+            "Beginner"
+          ]
+        },
+        {
+          "id": "harvardx-web-certificate",
+          "title": "HarvardX Computer Science for Web Programming Certificate",
+          "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming",
+          "description": "Professional certificate focused on web programming.",
+          "tags": [
+            "Full-Stack",
+            "Python",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "papers-books",
+      "title": "Papers & books",
+      "description": "Research papers, digital libraries, free books, and longer-form reading material.",
+      "accent": "#b79cff",
+      "resources": [
+        {
+          "id": "acm-digital-library",
+          "title": "ACM Digital Library",
+          "url": "https://dl.acm.org/",
+          "description": "Research papers, conference proceedings, and computing publications from ACM.",
+          "tags": [
+            "Research",
+            "Computer Science"
+          ]
+        },
+        {
+          "id": "free-programming-books",
+          "title": "Free Programming Books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "Large curated list of free programming books and learning resources.",
+          "tags": [
+            "Beginner",
+            "JavaScript",
+            "Python"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yt-channels-playlists",
+      "title": "YT channels / playlists",
+      "description": "Programming channels, playlists, and long-form learning content.",
+      "accent": "#ffb89b",
+      "resources": [
+        {
+          "id": "youtube-playlist-pl3vm",
+          "title": "YouTube Programming Playlist",
+          "url": "https://www.youtube.com/watch?v=1NjOWtQ7S2o&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=1",
+          "description": "Saved programming playlist from YouTube.",
+          "tags": [
+            "Beginner"
+          ]
+        },
+        {
+          "id": "tech-with-tim",
+          "title": "Tech With Tim",
+          "url": "https://www.techwithtim.net/",
+          "description": "Programming tutorials, Python projects, and course-style video content.",
+          "tags": [
+            "Python",
+            "Projects",
+            "Beginner"
+          ]
+        }
+      ]
+    }
+  ]
+}
