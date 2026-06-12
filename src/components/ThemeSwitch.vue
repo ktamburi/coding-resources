@@ -54,7 +54,7 @@ onMounted(() => {
           @change="applyTheme('light')"
         />
         <span
-          class="block px-3 py-2 transition hover:bg-[var(--accent-light)] hover:text-[var(--text)] peer-checked:bg-[var(--accent-light)] peer-checked:text-[var(--accent)] peer-focus-visible:outline peer-focus-visible:outline-2 peer-focus-visible:outline-offset-[-2px] peer-focus-visible:outline-[var(--accent)]"
+          class="block px-2 py-1.5 transition hover:bg-[var(--accent-light)] hover:text-[var(--text)] peer-checked:bg-[var(--accent-light)] peer-checked:text-[var(--accent)] peer-focus-visible:outline peer-focus-visible:outline-2 peer-focus-visible:outline-offset-[-2px] peer-focus-visible:outline-[var(--accent)] sm:px-3 sm:py-2"
         >
           Light
         </span>
@@ -70,7 +70,7 @@ onMounted(() => {
           @change="applyTheme('dark')"
         />
         <span
-          class="block px-3 py-2 transition hover:bg-[var(--accent-light)] hover:text-[var(--text)] peer-checked:bg-[var(--accent-light)] peer-checked:text-[var(--accent)] peer-focus-visible:outline peer-focus-visible:outline-2 peer-focus-visible:outline-offset-[-2px] peer-focus-visible:outline-[var(--accent)]"
+          class="block px-2 py-1.5 transition hover:bg-[var(--accent-light)] hover:text-[var(--text)] peer-checked:bg-[var(--accent-light)] peer-checked:text-[var(--accent)] peer-focus-visible:outline peer-focus-visible:outline-2 peer-focus-visible:outline-offset-[-2px] peer-focus-visible:outline-[var(--accent)] sm:px-3 sm:py-2"
         >
           Dark
         </span>

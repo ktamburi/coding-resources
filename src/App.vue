@@ -76,10 +76,10 @@ function resetFilters() {
 
 <template>
   <div class="flex h-screen flex-col overflow-hidden">
-    <div class="mx-auto flex min-h-0 w-full max-w-[1480px] flex-1 flex-col px-4 py-5">
+    <div class="flex min-h-0 w-full flex-1 flex-col px-2 py-2 sm:px-4 sm:py-5">
       <AppHeader />
 
-      <main class="grid min-h-0 flex-1 gap-6 pt-5 lg:grid-cols-[260px_minmax(0,1fr)]">
+      <main class="grid min-h-0 flex-1 gap-3 pt-3 sm:gap-6 sm:pt-5 lg:grid-cols-[260px_minmax(0,1fr)]">
         <SectionSidebar
           v-model:selected-section="selectedSection"
           :sections="sectionOptions"
@@ -88,14 +88,17 @@ function resetFilters() {
 
         <section class="flex min-h-0 min-w-0 flex-col">
           <ResourceFilters
+            v-model:selected-section="selectedSection"
             v-model:search-term="searchTerm"
             v-model:selected-tag="selectedTag"
+            :sections="sectionOptions"
+            :total-resources="totalResources"
             :tags="allTags"
             :active-filters-count="activeFiltersCount"
             @reset="resetFilters"
           />
 
-          <div class="min-h-0 flex-1 overflow-y-auto pr-1">
+          <div class="no-scrollbar min-h-0 flex-1 overflow-y-auto">
             <ResourceSection v-for="section in filteredSections" :key="section.id" :section="section" />
           </div>
         </section>

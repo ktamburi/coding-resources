@@ -13,7 +13,10 @@ const emit = defineEmits<{
 </script>
 
 <template>
-  <aside class="flex min-h-0 gap-2 overflow-x-auto pb-1 lg:grid lg:content-start lg:overflow-visible" aria-label="Sections">
+  <aside
+    class="hidden min-h-0 gap-2 lg:grid lg:content-start"
+    aria-label="Sections"
+  >
     <button
       type="button"
       class="flex min-h-12 w-44 shrink-0 items-center justify-between gap-3 rounded-lg border px-3 py-2 text-left font-bold text-[var(--text)] transition lg:w-full"
