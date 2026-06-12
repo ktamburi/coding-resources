@@ -44,7 +44,7 @@ const baseUrl = import.meta.env.BASE_URL
           </a>
           <a
             class="inline-flex transition focus-visible:rounded focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--accent)]"
-            href="https://github.com/ktamburi"
+            href="https://github.com/ktamburi/coding-resources"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
