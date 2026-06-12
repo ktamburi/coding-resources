@@ -935,6 +935,17 @@
             "OSINT",
             "Research"
           ]
+        },
+        {
+          "id": "tech-with-tim",
+          "title": "Tech With Tim",
+          "url": "https://www.techwithtim.net/",
+          "description": "Programming tutorials, Python projects, and course-style video content.",
+          "tags": [
+            "Python",
+            "Projects",
+            "Beginner"
+          ]
         }
       ]
     },
@@ -1285,17 +1296,6 @@
           "url": "https://www.youtube.com/watch?v=1NjOWtQ7S2o&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=1",
           "description": "Saved programming playlist from YouTube.",
           "tags": [
-            "Beginner"
-          ]
-        },
-        {
-          "id": "tech-with-tim",
-          "title": "Tech With Tim",
-          "url": "https://www.techwithtim.net/",
-          "description": "Programming tutorials, Python projects, and course-style video content.",
-          "tags": [
-            "Python",
-            "Projects",
             "Beginner"
           ]
         }
