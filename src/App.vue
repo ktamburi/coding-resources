@@ -59,7 +59,17 @@ const activeFiltersCount = computed(
 
 function matchesFilters(resource: ResourceItem) {
   const query = searchTerm.value.trim().toLowerCase()
-  const haystack = [resource.title, resource.description, getHostname(resource.url), ...resource.tags].join(' ').toLowerCase()
+  const suggestedLinkText =
+    resource.suggestedLinks?.flatMap((link) => [link.title, link.url, getHostname(link.url)]) ?? []
+  const haystack = [
+    resource.title,
+    resource.description,
+    getHostname(resource.url),
+    ...resource.tags,
+    ...suggestedLinkText,
+  ]
+    .join(' ')
+    .toLowerCase()
 
   return (
     (selectedTag.value === 'all' || resource.tags.includes(selectedTag.value)) &&

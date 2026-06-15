@@ -7,15 +7,21 @@
       "accent": "#7ed9c4",
       "resources": [
         {
-          "id": "algorithm-visualizer-n-queens",
-          "title": "Algorithm Visualizer - N Queens",
-          "url": "https://algorithm-visualizer.org/backtracking/n-queens-problem",
-          "description": "Interactive backtracking visualization for the N Queens problem.",
+          "id": "algorithm-visualizer",
+          "title": "Algorithm Visualizer",
+          "url": "https://algorithm-visualizer.org/",
+          "description": "Interactive visualizations for algorithms and data structures.",
           "tags": [
             "Algorithms",
             "JavaScript",
             "Beginner",
             "Visual"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "N Queens problem",
+              "url": "https://algorithm-visualizer.org/backtracking/n-queens-problem"
+            }
           ]
         },
         {
@@ -302,7 +308,15 @@
             "Algorithms",
             "Interview",
             "Java",
-            "Python"
+            "Python",
+            "DevOps",
+            "Roadmap"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "DevOps roadmap",
+              "url": "https://www.geeksforgeeks.org/devops/devops-roadmap/"
+            }
           ]
         },
         {
@@ -397,14 +411,25 @@
           ]
         },
         {
-          "id": "roadmap-devops",
-          "title": "roadmap.sh - DevOps",
-          "url": "https://roadmap.sh/devops",
-          "description": "Structured DevOps learning roadmap.",
+          "id": "roadmap-sh",
+          "title": "roadmap.sh",
+          "url": "https://roadmap.sh/",
+          "description": "Structured developer roadmaps, guides, and learning paths.",
           "tags": [
             "DevOps",
+            "Cyber-Security",
             "Roadmap",
             "Beginner"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "DevOps roadmap",
+              "url": "https://roadmap.sh/devops"
+            },
+            {
+              "title": "Cyber Security roadmap",
+              "url": "https://roadmap.sh/cyber-security"
+            }
           ]
         },
         {
@@ -418,14 +443,14 @@
           ]
         },
         {
-          "id": "geeksforgeeks-devops-roadmap",
-          "title": "GeeksforGeeks DevOps Roadmap",
-          "url": "https://www.geeksforgeeks.org/devops/devops-roadmap/",
-          "description": "DevOps roadmap covering tools, concepts, and learning order.",
+          "id": "engineering-devops",
+          "title": "Engineering DevOps",
+          "url": "https://www.engineeringdevops.com/",
+          "description": "DevOps engineering articles, tutorials, and practical learning resources.",
           "tags": [
             "DevOps",
-            "Roadmap",
-            "Beginner"
+            "Cloud",
+            "Tooling"
           ]
         },
         {
@@ -507,16 +532,6 @@
           ]
         },
         {
-          "id": "udemy-ervis-trupja",
-          "title": "Ervis Trupja on Udemy",
-          "url": "https://www.udemy.com/user/ervis-trupja/",
-          "description": "Programming and development courses from Ervis Trupja.",
-          "tags": [
-            "Beginner",
-            "Full-Stack"
-          ]
-        },
-        {
           "id": "codeforwin-programming-fundamentals",
           "title": "Codeforwin - Programming Fundamentals",
           "url": "https://codeforwin.org/fundamentals/computer-program-programming",
@@ -546,100 +561,6 @@
           "tags": [
             "Computer Science",
             "Beginner"
-          ]
-        },
-        {
-          "id": "edx-ux",
-          "title": "edX UX Courses",
-          "url": "https://www.edx.org/learn/user-experience-ux",
-          "description": "User experience and UX design courses on edX.",
-          "tags": [
-            "Design",
-            "UX"
-          ]
-        },
-        {
-          "id": "edx-data-analysis",
-          "title": "edX Data Analysis Courses",
-          "url": "https://www.edx.org/learn/data-analysis",
-          "description": "Data analysis courses and programs on edX.",
-          "tags": [
-            "Data",
-            "AI/ML",
-            "Python"
-          ]
-        },
-        {
-          "id": "edx-cs50-intro",
-          "title": "CS50's Introduction to Computer Science",
-          "url": "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science",
-          "description": "Harvard's introductory computer science course.",
-          "tags": [
-            "Computer Science",
-            "Beginner",
-            "C/C++",
-            "Python"
-          ]
-        },
-        {
-          "id": "edx-product-management",
-          "title": "edX Product Management Courses",
-          "url": "https://www.edx.org/learn/product-management",
-          "description": "Product management courses on edX.",
-          "tags": [
-            "Product",
-            "Career"
-          ]
-        },
-        {
-          "id": "edx-digital-marketing",
-          "title": "edX Digital Marketing Courses",
-          "url": "https://www.edx.org/learn/digital-marketing",
-          "description": "Digital marketing courses on edX.",
-          "tags": [
-            "Marketing",
-            "Career"
-          ]
-        },
-        {
-          "id": "edx-computer-programming",
-          "title": "edX Computer Programming Courses",
-          "url": "https://www.edx.org/learn/computer-programming",
-          "description": "Programming courses across languages and topics on edX.",
-          "tags": [
-            "Beginner",
-            "Programming Basics"
-          ]
-        },
-        {
-          "id": "harvardx",
-          "title": "HarvardX",
-          "url": "https://www.edx.org/school/harvardx",
-          "description": "HarvardX courses and learning programs on edX.",
-          "tags": [
-            "Computer Science"
-          ]
-        },
-        {
-          "id": "coursera-cryptocurrency",
-          "title": "Coursera Cryptocurrency Course",
-          "url": "https://www.coursera.org/learn/cryptocurrency#syllabus",
-          "description": "Cryptocurrency and blockchain course syllabus on Coursera.",
-          "tags": [
-            "Blockchain",
-            "Cyber-Security"
-          ]
-        },
-        {
-          "id": "edx-cs50",
-          "title": "CS50 on edX",
-          "url": "https://www.edx.org/cs50",
-          "description": "CS50 course collection on edX.",
-          "tags": [
-            "Computer Science",
-            "Beginner",
-            "Python",
-            "C/C++"
           ]
         },
         {
@@ -673,7 +594,48 @@
           "description": "Online courses, programs, and certificates from universities and companies.",
           "tags": [
             "Computer Science",
-            "Career"
+            "Career",
+            "Beginner",
+            "Python",
+            "AI/ML",
+            "Design",
+            "Data",
+            "Product",
+            "Marketing"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "UX courses",
+              "url": "https://www.edx.org/learn/user-experience-ux"
+            },
+            {
+              "title": "Data analysis courses",
+              "url": "https://www.edx.org/learn/data-analysis"
+            },
+            {
+              "title": "CS50's Introduction to Computer Science",
+              "url": "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science"
+            },
+            {
+              "title": "Product management courses",
+              "url": "https://www.edx.org/learn/product-management"
+            },
+            {
+              "title": "Digital marketing courses",
+              "url": "https://www.edx.org/learn/digital-marketing"
+            },
+            {
+              "title": "Computer programming courses",
+              "url": "https://www.edx.org/learn/computer-programming"
+            },
+            {
+              "title": "HarvardX",
+              "url": "https://www.edx.org/school/harvardx"
+            },
+            {
+              "title": "CS50 course collection",
+              "url": "https://www.edx.org/cs50"
+            }
           ]
         },
         {
@@ -683,7 +645,14 @@
           "description": "Marketplace of programming, design, business, and technical courses.",
           "tags": [
             "Beginner",
-            "Career"
+            "Career",
+            "Full-Stack"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "Ervis Trupja courses",
+              "url": "https://www.udemy.com/user/ervis-trupja/"
+            }
           ]
         },
         {
@@ -705,7 +674,15 @@
           "description": "University and company-backed online courses and learning programs.",
           "tags": [
             "Career",
-            "Computer Science"
+            "Computer Science",
+            "Blockchain",
+            "Cyber-Security"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "Cryptocurrency course",
+              "url": "https://www.coursera.org/learn/cryptocurrency#syllabus"
+            }
           ]
         },
         {
@@ -740,6 +717,17 @@
           "tags": [
             "AI/ML",
             "Python",
+            "Advance"
+          ]
+        },
+        {
+          "id": "anthropic-academy",
+          "title": "Anthropic Academy",
+          "url": "https://anthropic.skilljar.com/",
+          "description": "Anthropic training courses for Claude, prompt engineering, and AI development.",
+          "tags": [
+            "AI/ML",
+            "Prompt Engineering",
             "Advance"
           ]
         },
@@ -890,17 +878,6 @@
             "Cyber-Security",
             "API",
             "OSINT"
-          ]
-        },
-        {
-          "id": "roadmap-cyber-security",
-          "title": "roadmap.sh - Cyber Security",
-          "url": "https://roadmap.sh/cyber-security",
-          "description": "Structured cybersecurity learning roadmap.",
-          "tags": [
-            "Cyber-Security",
-            "Roadmap",
-            "Beginner"
           ]
         },
         {
@@ -1067,18 +1044,14 @@
           "tags": [
             "Interview",
             "Algorithms",
-            "Practice"
-          ]
-        },
-        {
-          "id": "leetcode-company-wise-problems-companies",
-          "title": "LeetCode Company Wise Problems - Companies",
-          "url": "https://github.com/hxu296/leetcode-company-wise-problems-2022/tree/main/companies",
-          "description": "Company folders from the LeetCode company-wise problem collection.",
-          "tags": [
-            "Interview",
-            "Algorithms",
+            "Practice",
             "Career"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "Company folders",
+              "url": "https://github.com/hxu296/leetcode-company-wise-problems-2022/tree/main/companies"
+            }
           ]
         },
         {
@@ -1213,44 +1186,47 @@
           ]
         },
         {
-          "id": "edx-cybersecurity",
-          "title": "edX Cybersecurity Courses",
-          "url": "https://www.edx.org/learn/cybersecurity",
-          "description": "Cybersecurity courses and certificate programs on edX.",
+          "id": "devops-institute",
+          "title": "DevOps Institute",
+          "url": "https://www.devopsinstitute.com/",
+          "description": "DevOps certification, training, reports, and professional development resources.",
           "tags": [
-            "Cyber-Security"
+            "DevOps",
+            "Certifications",
+            "Career"
           ]
         },
         {
-          "id": "harvardx-ai-certificate",
-          "title": "HarvardX Computer Science for AI Certificate",
-          "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence",
-          "description": "Professional certificate focused on computer science for artificial intelligence.",
+          "id": "edx-certificates",
+          "title": "edX Certificates",
+          "url": "https://www.edx.org/certificates",
+          "description": "Professional certificates and certificate-oriented courses on edX.",
           "tags": [
+            "Certifications",
+            "Cyber-Security",
             "AI/ML",
+            "Computer Science",
             "Python",
-            "Computer Science"
-          ]
-        },
-        {
-          "id": "harvardx-python-certificate",
-          "title": "HarvardX Computer Science for Python Programming Certificate",
-          "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming",
-          "description": "Professional certificate focused on Python programming.",
-          "tags": [
-            "Python",
-            "Beginner"
-          ]
-        },
-        {
-          "id": "harvardx-web-certificate",
-          "title": "HarvardX Computer Science for Web Programming Certificate",
-          "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming",
-          "description": "Professional certificate focused on web programming.",
-          "tags": [
             "Full-Stack",
-            "Python",
             "JavaScript"
+          ],
+          "suggestedLinks": [
+            {
+              "title": "Cybersecurity courses",
+              "url": "https://www.edx.org/learn/cybersecurity"
+            },
+            {
+              "title": "HarvardX Computer Science for AI Certificate",
+              "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence"
+            },
+            {
+              "title": "HarvardX Computer Science for Python Programming Certificate",
+              "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming"
+            },
+            {
+              "title": "HarvardX Computer Science for Web Programming Certificate",
+              "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming"
+            }
           ]
         }
       ]

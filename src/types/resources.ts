@@ -1,9 +1,15 @@
+export interface SuggestedResourceLink {
+  title: string
+  url: string
+}
+
 export interface ResourceItem {
   id: string
   title: string
   url: string
   description: string
   tags: string[]
+  suggestedLinks?: SuggestedResourceLink[]
 }
 
 export interface ResourceSection {
