@@ -16,10 +16,10 @@ const baseUrl = import.meta.env.BASE_URL
       </span>
       <a
         class="font-bold text-[var(--accent)] hover:underline focus-visible:rounded-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--accent)]"
-        href="https://github.com/ktamburi"
+        href="https://klaudiatamburi.web.app/"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Klaudia Tamburi on GitHub"
+        aria-label="Klaudia Tamburi's portfolio"
       >
         Klaudia Tamburi
       </a>
